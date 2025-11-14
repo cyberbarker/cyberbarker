@@ -1,12 +1,30 @@
-<h1 align="center">Hi there, I'm Vladyslav 👋</h1>
+# 👋 Hi, I'm Vladyslav Ilyenko
+**Head of iOS at Shwartzcode**
 
-💻 I’m currently <b>working</b> on the <i>Cybercap</i> project.  
-🌱 I’m deeply <b>interested</b> in exploring MacOS Development and expanding my expertise in building high-performance apps for Apple platforms.  
-🚀 With over 5 years of experience in iOS development, I specialize in creating user-focused, scalable, and modern applications.  
-🛠️ Passionate about leveraging the latest technologies and tools to deliver high-quality software.  
-🎯 Strong background in project and team management, ensuring effective collaboration and on-time delivery.  
+## 🚀 About Me
+I am an experienced iOS developer with over five years in the industry. I currently lead the iOS direction at Shwartzcode.  
+I guide the iOS team, define the development strategy, and make key technical decisions that shape the product and its architecture.
 
-<h2 align="center">Cyberbarkers 🐕</h2>
+## 🧩 What I Do
+- Lead and mentor the iOS team  
+- Plan the development process and improve workflows  
+- Build clean, reliable, and modern iOS solutions  
+- Communicate effectively with engineers, designers, and management  
+- Drive technical decisions and architecture development  
+
+## 🦷 Current Project
+Developing an advanced medical high-tech application that helps specialists perform dental implant procedures with greater precision and efficiency.
+
+## 💡 What Drives Me
+Continuous growth, attention to detail, and the ambition to build products that make a real impact in the medical field.
+
+## 🛠 Tech Stack
+- **Swift / SwiftUI / UIKit**  
+- **Combine / Concurrency**  
+- **CoreData / Realm / SQLite**  
+- **Clean Architecture / MVVM / VIPER (when needed)**  
+- **REST / GraphQL**  
+- **CI/CD with GitHub Actions / Fastlane**
 
 💡 Curious about my professional journey?  
 Check out my [LinkedIn profile](https://www.linkedin.com/in/vladyslav-ilyenko-a7412277/) to learn more about my experience and achievements!
