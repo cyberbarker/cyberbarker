@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Vladyslav Ilyenko
-**Head of iOS at Shwartzcode**
 
 ## 🚀 About Me
 I am an experienced iOS developer with over five years in the industry. I currently lead the iOS direction at Shwartzcode.  
