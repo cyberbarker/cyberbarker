@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vladyslav Ilyenko
 
-## 🦷 Current Project
-Developing an advanced medical high-tech application that helps specialists perform dental implant procedures with greater precision and efficiency.
+Mostly working with Swift and Apple platforms, but not limited to them.
 
-💡 Curious about my professional journey?  
-Check out my [LinkedIn profile](https://www.linkedin.com/in/vladyslav-ilyenko-a7412277/) to learn more about my experience and achievements!
+I build commercial products, independent apps, and whatever else catches my interest.
+
+More about me on [LinkedIn](https://www.linkedin.com/in/vladyslav-ilyenko-a7412277/).
